@@ -244,6 +244,12 @@ Utility (Mareep) @ Leftovers
 - Thunder Wave
 - Rest
 
+RestTalk (Marill) @ Leftovers
+- Surf
+- Light Screen
+- Rest
+- Sleep Talk
+
 RestTalk (Natu) @ Leftovers
 - Psychic
 - Drill Peck
@@ -297,6 +303,18 @@ Curse (Phanpy) @ Leftovers
 - Earthquake  
 - Ancient Power
 - Body Slam
+
+RestTalk (Psyduck) @ Leftovers    
+- Surf  
+- Light Screen
+- Rest
+- Sleep Talk
+
+Hypnosis (Psyduck) @ Leftovers    
+- Hypnosis  
+- Surf
+- Ice Beam
+- Hidden Power Electric
 
 RestTalk (Rattata) @ Leftovers 
 - Double-Edge
@@ -463,6 +481,12 @@ Thief (Venonat)
 Defensive (Vulpix) @ Leftovers
 - Flamethrower
 - Sunny Day
+- Rest
+- Sleep Talk
+
+RestTalk (Wooper) @ Leftovers
+- Earthquake
+- Ice Beam
 - Rest
 - Sleep Talk
 

@@ -10,11 +10,17 @@ Swords Dance (Bulbasaur) @ Leftovers
 - Razor Leaf
 - Sleep Powder
 
+Utility (Bulbasaur) @ Leftovers
+- Leech Seed
+- Body Slam
+- Synthesis
+- Sleep Powder
+
 Fast Utility (Butterfree) @ Leftovers
 - Sleep Powder
 - Stun Spore
 - Psychic
-- Hidden Power Electric
+- Hidden Power Ice
 
 RestTalk (Charmander) @ Leftovers
 - Fire Blast  
@@ -22,22 +28,22 @@ RestTalk (Charmander) @ Leftovers
 - Rest  
 - Sleep Talk  
 
-Setup Sweeper (Charmander) @ Leftovers  
+Swords Dance (Charmander) @ Leftovers  
 - Swords Dance
 - Return
-- Hidden Power Grass
+- Rock Slide
 - Fire Blast
 
-Substitute (Charmander) @ Leftovers  
-- Substitute
+Special Attacker (Charmander) @ Leftovers  
 - Fire Blast
 - Hidden Power Grass
 - Rock Slide
+- Substitute
 
-Defensive (Chikorita) @ Leftovers  
-- Razor Leaf
+Support (Chikorita) @ Leftovers  
 - Body Slam
-- Curse 
+- Razor Leaf
+- Light Screen
 - Synthesis  
 
 Swords Dance (Chikorita) @ Leftovers  
@@ -46,17 +52,29 @@ Swords Dance (Chikorita) @ Leftovers
 - Razor Leaf 
 - Synthesis  
 
-Fast Attacker (Diglett) @ Leftovers
-- Earthquake
-- Rock Slide
-- Sludge Bomb
-- Substitute
+Utility (Dratini) @ Leftovers  
+- Thunder Wave
+- Ice Beam
+- Thunder 
+- Surf  
 
-Thief (Diglett)
-- Earthquake
-- Rock Slide
-- Sludge Bomb
-- Thief
+2 Attacks (Dratini) @ Leftovers  
+- Body Slam
+- Surf
+- Rest 
+- Sleep Talk  
+
+Defensive Curse (Dratini) @ Leftovers  
+- Curse
+- Body Slam
+- Surf 
+- Rest  
+
+Offensive Curse (Dratini) @ Leftovers  
+- Curse
+- Extreme Speed
+- Surf 
+- Thunder Wave  
 
 Curse (Ekans) @ Leftovers  
 - Curse  
@@ -80,7 +98,7 @@ Swords Dance (Goldeen) @ Leftovers
 - Swords Dance
 - Return
 - Surf
-- Hidden Power Ground
+- Agility
 
 RestTalk (Goldeen) @ Leftovers   
 - Swords Dance
@@ -100,20 +118,20 @@ RestTalk (Growlithe) @ Leftovers
 - Rest
 - Sleep Talk
 
-Agility (Growlithe) @ Leftovers
-- Agility
+Offensive (Growlithe) @ Leftovers
 - Fire Blast
 - Hidden Power Grass
 - Crunch
+- Agility
 
-3 Attacks (Horsea) @ Leftovers  
+Offensive (Horsea) @ Leftovers  
 - Hydro Pump
 - Ice Beam  
 - Hidden Power Electric
 - Agility  
 
 RestTalk (Horsea) @ Leftovers  
-- Surf 
+- Hydro Pump 
 - Ice Beam
 - Rest  
 - Sleep Talk
@@ -136,23 +154,29 @@ CurseTalk (Jigglypuff) @ Leftovers
 - Rest  
 - Sleep Talk  
 
+Present (Jigglypuff) @ Leftovers    
+- Present
+- Ice Beam
+- Rest  
+- Sleep Talk  
+
 All-out Attacker (Kabuto) @ Leftovers
 - Ancient Power
-- Surf
+- Hydro Pump
 - Ice Beam
 - Giga Drain
-
-RestTalk (Kabuto) @ Leftovers
-- Surf
-- Ancient Power
-- Rest
-- Sleep Talk
 
 Thief (Kabuto)
 - Ancient Power
 - Hydro Pump
 - Ice Beam
 - Thief
+
+RestTalk (Kabuto) @ Leftovers
+- Hydro Pump
+- Ancient Power
+- Rest
+- Sleep Talk
 
 Offensive (Krabby) @ Leftovers  
 - Swords Dance  
@@ -188,7 +212,7 @@ All-out Attacker (Machop) @ Leftovers
 - Cross Chop  
 - Rock Slide
 - Earthquake
-- Body Slam
+- Fire Blast
 
 Thief (Machop)
 - Cross Chop  
@@ -196,7 +220,7 @@ Thief (Machop)
 - Earthquake
 - Thief
 
-Curse (Machop) @ Leftovers
+Offensive Curse (Machop) @ Leftovers
 - Curse  
 - Cross Chop
 - Rock Slide
@@ -214,11 +238,35 @@ RestTalk (Machop) @ Leftovers
 - Rest
 - Sleep Talk
 
+3 Attacks (Magby) @ Mint Berry
+- Fire Blast  
+- Thunder Punch
+- Hidden Power Water
+- Rest
+
+Offensive (Magby) @ Leftovers
+- Fire Blast  
+- Thunder Punch
+- Hidden Power Water
+- Cross Chop
+
+Thief (Magby)
+- Fire Blast  
+- Thunder Punch
+- Hidden Power Water
+- Thief
+
+RestTalk (Magby) @ Leftovers
+- Fire Blast  
+- Cross Chop
+- Rest
+- Sleep Talk
+
 Substitute (Mankey) @ Leftovers 
 - Substitute
 - Cross Chop
 - Thunder
-- Hidden Power Ground
+- Double-Edge
 
 RestTalk (Mankey) @ Leftovers  
 - Cross Chop
@@ -238,13 +286,7 @@ RestTalk (Mareep) @ Leftovers
 - Rest
 - Sleep Talk
 
-Utility (Mareep) @ Leftovers
-- Thunderbolt
-- Hidden Power Ice
-- Thunder Wave
-- Rest
-
-RestTalk (Marill) @ Leftovers
+Light Screen (Marill) @ Leftovers
 - Surf
 - Light Screen
 - Rest
@@ -272,7 +314,7 @@ Offensive Utility (Nidorino) (M) @ Leftovers
 - Thunder  
 - Ice Beam  
 - Morning Sun
-- Return
+- Thief
 
 Curse (Nidorino) (M) @ Leftovers  
 - Curse
@@ -280,17 +322,53 @@ Curse (Nidorino) (M) @ Leftovers
 - Ice Beam
 - Morning Sun
 
-Defensive (Oddish) @ Leftovers  
+Support (Oddish) @ Leftovers  
 - Sludge Bomb
 - Razor Leaf  
 - Stun Spore
 - Synthesis  
 
-Setup (Oddish) @ Leftovers  
+Offensive (Oddish) @ Leftovers  
 - Swords Dance  
 - Sludge Bomb
 - Razor Leaf
-- Hidden Power Ground  
+- Synthesis 
+
+RestTalk (Parasect) @ Leftovers  
+- Rest
+- Sleep Talk
+- Body Slam
+- Giga Drain
+
+Utility (Parasect) @ Leftovers  
+- Sludge Bomb 
+- Giga Drain
+- Stun Spore
+- Synthesis
+
+Swords Dance (Parasect) @ Leftovers  
+- Swords Dance  
+- Body Slam
+- Giga Drain
+- Spore
+
+Curse (Parasect) @ Leftovers  
+- Curse  
+- Body Slam
+- Giga Drain
+- Stun Spore
+
+Growth (Parasect) @ Leftovers  
+- Growth 
+- Giga Drain
+- Hidden Power Ice
+- Synthesis
+
+Thief (Parasect)  
+- Thief 
+- Body Slam
+- Giga Drain
+- Stun Spore
 
 RestTalk (Phanpy) @ Leftovers  
 - Earthquake  
@@ -302,7 +380,7 @@ Curse (Phanpy) @ Leftovers
 - Curse  
 - Earthquake  
 - Ancient Power
-- Body Slam
+- Encore
 
 RestTalk (Psyduck) @ Leftovers    
 - Surf  
@@ -331,7 +409,7 @@ Thief (Rattata)
 All-out Attacker (Rattata) @ Pink Bow  
 - Double-Edge
 - Super Fang
-- Hidden Power Grass
+- Thunder
 - Quick Attack
 
 Substitute (Rattata) @ Leftovers 
@@ -340,27 +418,45 @@ Substitute (Rattata) @ Leftovers
 - Super Fang
 - Hidden Power Grass
 
+All-out Attacker (Remoraid) @ Leftovers
+- Surf
+- Ice Beam
+- Hidden Power Electric
+- Flamethrower
+
 Thief (Remoraid)
 - Surf
 - Ice Beam
 - Hidden Power Electric
 - Thief
 
+Swords Dance (Sandshrew) @ Leftovers  
+- Swords Dance
+- Earthquake
+- Rock Slide  
+- Hidden Power Flying  
+
+Thief Utility (Sandshrew)  
+- Thief
+- Earthquake
+- Rock Slide  
+- Counter 
+
 RestTalk (Seel) @ Leftovers  
 - Surf
-- Ice Beam
+- Body Slam
 - Rest  
 - Sleep Talk  
 
 Curse (Seel) @ Leftovers  
 - Curse  
 - Body Slam  
-- Rest  
-- Surf
+- Surf  
+- Rest
 
 Support (Seel) @ Leftovers  
-- Toxic  
 - Encore  
+- Toxic  
 - Surf  
 - Ice Beam
 
@@ -376,23 +472,11 @@ Explosion (Shellder) @ Leftovers
 - Ice Beam
 - Hidden Power Electric
 
-Fast Utility (Skiploom) @ Leftovers  
+Utility (Skiploom) @ Leftovers  
 - Stun Spore
 - Encore  
 - Hidden Power Flying
 - Giga Drain
-
-Defensive (Slowpoke) @ Leftovers
-- Psychic
-- Surf
-- Rest
-- Sleep Talk
-
-Curse (Slowpoke) @ Leftovers
-- Curse
-- Body Slam
-- Surf
-- Rest
 
 CurseTalk (Snubbull) @ Leftovers   
 - Curse 
@@ -404,7 +488,7 @@ Offensive Curse (Snubbull) @ Leftovers
 - Curse 
 - Return  
 - Hidden Power Ground  
-- Lovely Kiss
+- Thunder
 
 Offensive Utility (Snubbull) @ Leftovers   
 - Return 
@@ -412,7 +496,7 @@ Offensive Utility (Snubbull) @ Leftovers
 - Thunder  
 - Lovely Kiss
 
-RestTalk (Snubbull) @ Leftovers   
+2 Attacks (Snubbull) @ Leftovers   
 - Return 
 - Thunder  
 - Rest  
@@ -423,6 +507,12 @@ Cleric (Snubbull) @ Leftovers
 - Heal Bell  
 - Rest  
 - Sleep Talk
+
+Thief (Snubbull)   
+- Return 
+- Hidden Power Ground  
+- Thunder  
+- Thief
 
 RestTalk (Spearow) @ Leftovers
 - Double-Edge
@@ -442,7 +532,7 @@ Thief (Spearow)
 - Hidden Power Grass
 - Thief
 
-RestTalk (Squirtle) @ Leftovers
+Zap Cannon (Squirtle) @ Leftovers
 - Surf
 - Zap Cannon
 - Rest
@@ -480,26 +570,26 @@ Thief (Venonat)
 
 Defensive (Vulpix) @ Leftovers
 - Flamethrower
-- Sunny Day
+- Body Slam
 - Rest
 - Sleep Talk
 
 RestTalk (Wooper) @ Leftovers
 - Earthquake
-- Ice Beam
+- Sludge Bomb
 - Rest
 - Sleep Talk
 
 Fast Attacker (Yanma) @ Leftovers
 - Wing Attack
 - Giga Drain
-- Hidden Power Bug
+- Hidden Power Ground
 - Screech
 
 Thief (Yanma)
 - Wing Attack
 - Giga Drain
-- Hidden Power Bug
+- Hidden Power Ground
 - Thief
 
 RestTalk (Yanma) @ Leftovers
@@ -507,3 +597,9 @@ RestTalk (Yanma) @ Leftovers
 - Giga Drain
 - Rest
 - Sleep Talk 
+
+Reversal (Yanma) @ Miracle Berry
+- Wing Attack
+- Giga Drain
+- Endure
+- Reversal

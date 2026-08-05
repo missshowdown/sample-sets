@@ -2,7 +2,7 @@ Veil Setter (Abomasnow) @ Eject Pack
 Ability: Snow Warning  
 Tera Type: Water  
 EVs: 248 HP / 252 Def / 8 SpD 
-Modest Nature  
+Bold Nature  
 IVs: 0 Atk  
 - Aurora Veil  
 - Blizzard  
@@ -20,7 +20,7 @@ IVs: 0 Atk
 - Earth Power  
 - Focus Blast 
 
-Swords Dance (Abomasnow) @ Lum Berry
+Swords Dance (Abomasnow) @ Heavy-Duty Boots
 Ability: Snow Warning  
 Tera Type: Ice  
 EVs: 252 Atk / 4 Def / 252 Spe
@@ -44,8 +44,8 @@ IVs: 0 Atk
 Special Wall (Appletun) @ Heavy-Duty Boots  
 Ability: Thick Fat  
 Tera Type: Steel  
-EVs: 248 HP / 8 SpA / 252 SpD  
-Sassy Nature  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
 - Apple Acid  
 - Dragon Pulse  
 - Dragon Tail  
@@ -55,17 +55,16 @@ Physical Wall (Appletun) @ Heavy-Duty Boots
 Ability: Thick Fat  
 Tera Type: Steel  
 EVs: 248 HP / 252 Def / 8 SpD  
-Bold Nature  
-IVs: 0 Atk  
+Bold Nature   
 - Apple Acid  
 - Dragon Pulse  
-- Body Press  
+- Dragon Tail  
 - Recover  
 
-Bulky Sweeper (Appletun) @ Leftovers  
+Curse (Appletun) @ Leftovers  
 Ability: Thick Fat  
 Tera Type: Steel  
-EVs: 252 HP / 4 Atk / 252 SpD  
+EVs: 252 HP / 4 Def / 252 SpD  
 Careful Nature  
 - Curse  
 - Dragon Tail  
@@ -96,7 +95,7 @@ IVs: 0 Atk
 
 Physical Wall (Arboliva) @ Leftovers  
 Ability: Seed Sower  
-Tera Type: Ghost  
+Tera Type: Fairy  
 EVs: 252 HP / 252 Def / 4 SpD  
 Bold Nature  
 - Strength Sap  
@@ -155,6 +154,36 @@ Calm Nature
 - Iron Defense  
 - Roar 
 
+Booster Energy Attacker (Brute Bonnet) @ Booster Energy  
+Ability: Protosynthesis  
+Tera Type: Dark  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature  
+- Crunch  
+- Sucker Punch  
+- Seed Bomb  
+- Close Combat 
+
+Heavy-Duty Boots Attacker (Brute Bonnet) @ Heavy-Duty Boots  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature  
+- Crunch  
+- Sucker Punch  
+- Close Combat  
+- Synthesis 
+
+Choice Band (Brute Bonnet) @ Choice Band  
+Ability: Protosynthesis  
+Tera Type: Dark  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature  
+- Crunch  
+- Sucker Punch  
+- Seed Bomb  
+- Close Combat 
+
 Offensive Spikes (Cacturne) @ Heavy-Duty Boots  
 Ability: Water Absorb  
 Tera Type: Ghost  
@@ -195,16 +224,6 @@ IVs: 0 Atk
 - Lava Plume  
 - Earth Power  
 - Roar  
-
-Choice Specs (Camerupt) @ Choice Specs  
-Ability: Solid Rock  
-Tera Type: Fire  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Modest Nature   
-- Eruption  
-- Fire Blast  
-- Earth Power  
-- Overheat  
 
 Choice Specs (Camerupt) @ Choice Specs  
 Ability: Solid Rock  
@@ -978,7 +997,7 @@ Calm Nature
 
 Specially Defensive (Lurantis) @ Heavy-Duty Boots  
 Ability: Contrary  
-Tera Type: Fire  
+Tera Type: Dragon  
 EVs: 248 HP / 8 Def / 252 SpD  
 Sassy Nature  
 - Leaf Storm  
@@ -1008,7 +1027,7 @@ Jolly Nature
 
 Choice Scarf (Lycanroc-Midnight) @ Choice Scarf  
 Ability: No Guard  
-Tera Type: Rock  
+Tera Type: Fighting  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Stone Edge  
@@ -1023,7 +1042,7 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature  
 - Crunch  
 - Play Rough  
-- Psychic Fangs  
+- Fire Fang  
 - Destiny Bond  
 
 Choice Band (Mabosstiff) @ Choice Band  
@@ -1033,8 +1052,8 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature  
 - Crunch  
 - Play Rough  
-- Psychic Fangs  
 - Fire Fang  
+- Psychic Fangs  
 
 Special Attacker (Magmortar) @ Heavy-Duty Boots  
 Ability: Flame Body  
@@ -1141,9 +1160,19 @@ Impish Nature
 IronPress (Naclstack) @ Eviolite  
 Ability: Purifying Salt  
 Tera Type: Ghost  
-EVs: 252 HP / 4 Atk / 252 SpD  
+EVs: 252 HP / 4 Def / 252 SpD  
 Careful Nature  
 - Iron Defense  
+- Body Press  
+- Salt Cure  
+- Recover  
+
+Curse (Naclstack) @ Eviolite  
+Ability: Purifying Salt  
+Tera Type: Ghost  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Curse  
 - Body Press  
 - Salt Cure  
 - Recover  
@@ -1212,7 +1241,7 @@ Jolly Nature
 Bulky Pivot (Persian-Alola) @ Heavy-Duty Boots  
 Ability: Fur Coat  
 Tera Type: Poison  
-EVs: 252 HP / 4 Def / 252 Spe  
+EVs: 248 HP / 8 Def / 252 Spe  
 Jolly Nature  
 - Foul Play  
 - Knock Off  
@@ -1233,7 +1262,7 @@ IVs: 0 Atk
 Choice Scarf (Persian-Alola) @ Choice Scarf  
 Ability: Fur Coat  
 Tera Type: Poison  
-EVs: 252 HP / 4 SpD / 252 Spe  
+EVs: 248 HP / 8 Def / 252 Spe  
 Jolly Nature  
 - Foul Play  
 - Knock Off  
@@ -1262,7 +1291,7 @@ Adamant Nature
 
 Terrain Setter (Pincurchin) @ Terrain Extender  
 Ability: Electric Surge  
-Tera Type: Flying  
+Tera Type: Ghost  
 EVs: 252 HP / 252 Def / 4 SpD  
 Bold Nature  
 IVs: 0 Atk  
@@ -1324,7 +1353,7 @@ IVs: 0 Atk
 
 Special Attacker (Pyroar) @ Heavy-Duty Boots  
 Ability: Unnerve  
-Tera Type: Ghost  
+Tera Type: Fairy  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -1406,6 +1435,17 @@ IVs: 0 Atk
 - Nasty Plot  
 - Psyshock  
 - Thunderbolt  
+- Alluring Voice  
+
+Electric Terrain Sweeper (Raichu-Alola) @ Electric Seed  
+Ability: Surge Surfer  
+Tera Type: Fairy  
+EVs: 252 HP / 4 Def / 252 SpD
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Thunderbolt  
+- Psyshock  
 - Alluring Voice  
 
 Lead (Rampardos) @ Focus Sash
@@ -1520,7 +1560,7 @@ Swords Dance (Samurott) @ Splash Plate
 Ability: Torrent  
 Tera Type: Water  
 EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
+Adamant Nature  
 - Swords Dance  
 - Liquidation  
 - Aqua Jet  
@@ -1558,7 +1598,7 @@ Jolly Nature
 
 Stealth Rock (Sandaconda) @ Rocky Helmet  
 Ability: Shed Skin  
-Tera Type: Water  
+Tera Type: Dragon  
 EVs: 252 HP / 252 Def / 4 SpD  
 Impish Nature  
 - Stealth Rock  
@@ -1574,48 +1614,7 @@ Jolly Nature
 - Coil  
 - Earthquake  
 - Scale Shot  
-- Rest  
-
-Choice Specs (Sceptile) @ Choice Specs  
-Ability: Overgrow  
-Tera Type: Grass  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Leaf Storm  
-- Dragon Pulse  
-- Focus Blast  
-- Giga Drain  
-
-Swords Dance (Sceptile) @ Life Orb  
-Ability: Overgrow  
-Tera Type: Ground  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Swords Dance  
-- Leaf Blade  
-- Earthquake  
-- Rock Slide  
-
-Scale Shot (Sceptile) @ Loaded Dice  
-Ability: Overgrow  
-Tera Type: Dragon  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Swords Dance  
-- Bullet Seed  
-- Scale Shot  
-- Earthquake  
-
-Mixed Attacker (Sceptile) @ Life Orb  
-Ability: Overgrow  
-Tera Type: Grass  
-EVs: 4 Atk / 252 SpA / 252 Spe  
-Hasty Nature  
-- Leaf Storm  
-- Rock Slide  
-- Earthquake  
-- Dragon Pulse  
+- Stone Edge 
 
 Sunny Day Sweeper (Scovillain) @ Life Orb  
 Ability: Chlorophyll  
@@ -1661,7 +1660,7 @@ Calm Nature
 Lead (Smeargle) @ Focus Sash  
 Ability: Technician  
 Tera Type: Ghost  
-EVs: 252 HP / 4 Def / 252 Spe  
+EVs: 248 HP / 8 SpD / 252 Spe  
 Jolly Nature  
 - Stone Axe  
 - Ceaseless Edge  
@@ -1870,6 +1869,16 @@ Careful Nature
 - Rest  
 - Sleep Talk  
 
+RestTalk 2 Attacks (Ursaring) @ Eviolite  
+Ability: Guts  
+Tera Type: Fairy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Body Slam  
+- Play Rough  
+- Rest  
+- Sleep Talk  
+
 Guts Sweeper (Ursaring) @ Flame Orb  
 Ability: Guts  
 Tera Type: Ghost  
@@ -1880,17 +1889,17 @@ Jolly Nature
 - Shadow Claw  
 - Earthquake  
 
-Defensive (Victreebel) @ Rocky Helmet  
+Physically Defensive (Victreebel) @ Rocky Helmet  
 Ability: Chlorophyll  
 Tera Type: Fairy  
-EVs: 252 HP / 172 Def / 84 Spe  
-Timid Nature  
+EVs: 252 HP / 124 Def / 136 Spe  
+Bold Nature  
 - Strength Sap  
 - Sludge Bomb  
-- Leaf Storm  
+- Giga Drain  
 - Knock Off  
 
-Specially Offensive (Victreebel) @ Eject Pack  
+Specially Offensive (Victreebel) @ Life Orb  
 Ability: Chlorophyll  
 Tera Type: Steel  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -1900,8 +1909,8 @@ Timid Nature
 - Leaf Storm  
 - Knock Off  
 
-Swords Dance (Victreebel) @ Salac Berry  
-Ability: Gluttony  
+Swords Dance (Victreebel) @ Life Orb  
+Ability: Chlorophyll  
 Tera Type: Dark  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -1921,7 +1930,7 @@ IVs: 0 Atk
 - Sludge Bomb  
 - Weather Ball  
 
-Quiver Dance (Vivillon) @ Heavy-Duty Boots  
+Quiver Dance (Vivillon) @ Life Orb  
 Ability: Compound Eyes  
 Tera Type: Grass  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -1941,7 +1950,7 @@ Timid Nature
 - Psyshock  
 - Earth Power  
 
-Bulky Calm Mind (Wyrdeer) @ Leftovers  
+Stallbreaker (Wyrdeer) @ Leftovers  
 Ability: Intimidate  
 Tera Type: Fairy  
 EVs: 148 HP / 252 SpA / 108 Spe  
